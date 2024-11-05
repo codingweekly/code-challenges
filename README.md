@@ -7,7 +7,7 @@ Coding challenge websites are a great way to practice coding, learn new algorith
 
 No matter where you are on your coding journey, these challenge sites can help you grow your skills, prepare for interviews, and have some fun along the way. Happy coding!
 
-[LeetCode](https://www.leetcode.com)
+LeetCode
 
 This platform has a vast collection of challenges that you can solve in various programming languages. It's widely used for interview preparation, especially for jobs in big tech companies.
 
